@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KATAWUT\\source\\repos\\Lab_14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E39D066A-2B23-468E-8601-51702635169F}|Lab_14\\Lab_14.vcxproj|C:\\Users\\KATAWUT\\source\\repos\\Lab_14\\Lab_14\\Lab_14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E39D066A-2B23-468E-8601-51702635169F}|Lab_14\\Lab_14.vcxproj|solutionrelative:Lab_14\\Lab_14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab_14.cpp",
+              "DocumentMoniker": "C:\\Users\\KATAWUT\\source\\repos\\Lab_14\\Lab_14\\Lab_14.cpp",
+              "RelativeDocumentMoniker": "Lab_14\\Lab_14.cpp",
+              "ToolTip": "C:\\Users\\KATAWUT\\source\\repos\\Lab_14\\Lab_14\\Lab_14.cpp*",
+              "RelativeToolTip": "Lab_14\\Lab_14.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-09T09:01:28.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
