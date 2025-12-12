@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KATAWUT\\MIIA0106-2025-A\\LAB04\\car\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01AEA496-79D7-4A89-83F1-24B7F86B40AB}|..\\num\\num.vcxproj|C:\\Users\\KATAWUT\\MIIA0106-2025-A\\LAB04\\num\\num.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F184E4-A35E-418E-BD97-254AF110B401}|car.vcxproj|C:\\Users\\KATAWUT\\MIIA0106-2025-A\\LAB04\\car\\car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68F184E4-A35E-418E-BD97-254AF110B401}|car.vcxproj|solutionrelative:car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "num.cpp",
+              "DocumentMoniker": "C:\\Users\\KATAWUT\\MIIA0106-2025-A\\LAB04\\num\\num.cpp",
+              "RelativeDocumentMoniker": "..\\num\\num.cpp",
+              "ToolTip": "C:\\Users\\KATAWUT\\MIIA0106-2025-A\\LAB04\\num\\num.cpp",
+              "RelativeToolTip": "..\\num\\num.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-12T12:06:09.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "car.cpp",
+              "DocumentMoniker": "C:\\Users\\KATAWUT\\MIIA0106-2025-A\\LAB04\\car\\car.cpp",
+              "RelativeDocumentMoniker": "car.cpp",
+              "ToolTip": "C:\\Users\\KATAWUT\\MIIA0106-2025-A\\LAB04\\car\\car.cpp",
+              "RelativeToolTip": "car.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-12T11:18:58.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
