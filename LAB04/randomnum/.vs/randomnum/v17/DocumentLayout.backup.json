@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KATAWUT\\MIIA0106-2025-A\\LAB04\\randomnum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B29F7AC-239F-4F32-9632-862275800537}|randomnum.vcxproj|C:\\Users\\KATAWUT\\MIIA0106-2025-A\\LAB04\\randomnum\\randomnum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B29F7AC-239F-4F32-9632-862275800537}|randomnum.vcxproj|solutionrelative:randomnum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "randomnum.cpp",
+              "DocumentMoniker": "C:\\Users\\KATAWUT\\MIIA0106-2025-A\\LAB04\\randomnum\\randomnum.cpp",
+              "RelativeDocumentMoniker": "randomnum.cpp",
+              "ToolTip": "C:\\Users\\KATAWUT\\MIIA0106-2025-A\\LAB04\\randomnum\\randomnum.cpp*",
+              "RelativeToolTip": "randomnum.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-12T12:19:52.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
